@@ -1,5 +1,5 @@
 # Workshops @ ICSB '24
-Materials accompanying two pre-conference workshops that I presented at the 23rd International Conference on Systems Biology 2024, held at IIT Bombay from Nov. 30 - Dec. 5, 2024. 
+Materials accompanying a sequence of two pre-conference workshops that I presented at the 23rd International Conference on Systems Biology 2024, held at IIT Bombay from Nov. 30 - Dec. 5, 2024. 
 
 - ## [Crash course in Python for Biology](https://github.com/apalania/ICSB24_Workshops/tree/main/W5_Py4bio)
 - ## [Introduction to Artificial Neural Networks using Keras](https://github.com/apalania/ICSB24_Workshops/tree/main/W6_ANNwKeras)
